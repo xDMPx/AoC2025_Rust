@@ -24,3 +24,6 @@ target
 # Added by cargo
 
 /target
+
+puzzle_input/*
+test_puzzle_input/*
